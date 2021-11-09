@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.exe
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.deps.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\ref\UPPGIFT-3---GR-NT-KORT.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\bin\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.pdb
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\ref\UPPGIFT-3---GR-NT-KORT.dll
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.pdb
+C:\Users\Admin\Documents\GitHub\UPPGIFT-3---GR-NT-KORT\obj\Debug\net5.0\UPPGIFT-3---GR-NT-KORT.genruntimeconfig.cache
